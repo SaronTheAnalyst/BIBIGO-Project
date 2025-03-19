@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This project visualizes product ratings and sentiment analysis for the **Bibigo** brand in India using Tableau. The dataset was sourced from Kaggle: [Bibigo Brand Reviews and Ratings Dataset](https://www.kaggle.com/datasets/shivanichelkala/bibigo-brand-reviews-and-ratings-dataset).
-
+![Dashboard Screenshot](https://github.com/SaronTheAnalyst/Bibigo-/blob/main/Bibigo%20Dashboard.png)
 ### 🔍 Key Features
 - **Data Cleaning & Sentiment Analysis**: Performed using **SQL** before visualization.
 - **Tableau Dashboard**: Includes various visualizations to analyze rating trends and sentiment over time.
