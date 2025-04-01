@@ -58,9 +58,5 @@ This project visualizes product ratings and sentiment analysis for the **Bibigo*
 - Import the cleaned data.
 - Use **Bar Charts, Heatmaps, Line Charts, and Tables** for visualization.
 - Add **filters** for better interactivity.
-
-## 🤝 Contributing
-Feel free to fork this repository and enhance the analysis!
-
 ---
 **Author:** [Gutema Saron Samuel]
